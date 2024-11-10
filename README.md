@@ -36,3 +36,25 @@ and more in many cases. It brings the rich feature set of commercial offerings w
   - .\bzip2.exe -d "D:\Home_Lab-Softwares\OPNsense-24.7-dvd-amd64.iso.bz2" chnage your downloaed location for OPNsense DVD Image file it will take some time to extarct the ISO file.
     ![image](https://github.com/user-attachments/assets/d40cee1c-6d70-4d2e-b2f0-a411c86e0775)
     
+### Installing to VM Virtual Box 
+Machine > New
+
+![image](https://github.com/user-attachments/assets/c63b57ee-3f85-42ad-af10-5b09a8756b57)
+
+
+![image](https://github.com/user-attachments/assets/853d3ac4-0adf-4c06-91f8-f119819822b9)
+
+
+![image](https://github.com/user-attachments/assets/aee9c1a6-5cff-41bf-8e73-3a1e881e6683)
+
+
+**Give 2 Processor **
+
+![image](https://github.com/user-attachments/assets/1a7b8dc9-ebec-4327-a9b1-db64c19e1412)
+
+
+![image](https://github.com/user-attachments/assets/436544be-ef77-4a77-8fe0-a91427f62dac)
+
+
+![image](https://github.com/user-attachments/assets/4cee0d20-88b4-473c-a5c6-1e4ee8db5037)
+
