@@ -15,6 +15,12 @@ This lab includes steps for installing OPNsense firewall in a VM for leanring an
 OPNsense is an open source, easy-to-use and easy-to-build FreeBSD based firewall and routing platform. OPNsense includes most of the features available in expensive commercial firewalls, 
 and more in many cases. It brings the rich feature set of commercial offerings with the benefits of open and verifiable sources.
 
+<a href="https://opnsense.org/about/about-opnsense/">About OPNsense</a>
+
+<a href="https://opnsense.org/users/get-started/">Requirements</a>
+
+<a href="https://opnsense.org/download/">Downlaod OPNsense</a>
+
 ### Tools Used
 
 - OPNsense version24.7 DVD 
