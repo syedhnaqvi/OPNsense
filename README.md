@@ -29,3 +29,10 @@ and more in many cases. It brings the rich feature set of commercial offerings w
 - OPNsense version24.7 DVD 
 - Hypervisor either Vmware or Oracke Virtualbox
 - bzip 1.0.5 file extractor Free can be downloaded from <a href="https://gnuwin32.sourceforge.net/packages/bzip2.htm">Download Link</a>
+
+### Extraction Using bzip tool
+- install on WIN platfrom or others as per insructions
+- ON WIN platform use powershell in admin mode and run command from location where bzip2.exe was installed in my case it was C:\Program Files (x86)\GnuWin32\bin
+  - .\bzip2.exe -d "D:\Home_Lab-Softwares\OPNsense-24.7-dvd-amd64.iso.bz2" chnage your downloaed location for OPNsense DVD Image file it will take some time to extarct the ISO file.
+    ![image](https://github.com/user-attachments/assets/d40cee1c-6d70-4d2e-b2f0-a411c86e0775)
+    
