@@ -58,3 +58,5 @@ Machine > New
 
 ![image](https://github.com/user-attachments/assets/4cee0d20-88b4-473c-a5c6-1e4ee8db5037)
 
+### Start Machine and give extarcted ISO image location it will start booting 
+
